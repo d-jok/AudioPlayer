@@ -1,0 +1,11 @@
+D:\Програмы\AudioPlayer\AudioPlayer\bin\Release\AudioPlayer.exe
+D:\Програмы\AudioPlayer\AudioPlayer\bin\Release\AudioPlayer.pdb
+D:\Програмы\AudioPlayer\AudioPlayer\bin\Release\taglib-sharp.dll
+D:\Програмы\AudioPlayer\AudioPlayer\obj\Release\AudioPlayer.csprojAssemblyReference.cache
+D:\Програмы\AudioPlayer\AudioPlayer\obj\Release\AudioPlayer.Form1.resources
+D:\Програмы\AudioPlayer\AudioPlayer\obj\Release\AudioPlayer.Properties.Resources.resources
+D:\Програмы\AudioPlayer\AudioPlayer\obj\Release\AudioPlayer.csproj.GenerateResource.cache
+D:\Програмы\AudioPlayer\AudioPlayer\obj\Release\AudioPlayer.csproj.CoreCompileInputs.cache
+D:\Програмы\AudioPlayer\AudioPlayer\obj\Release\AudioPlayer.csproj.CopyComplete
+D:\Програмы\AudioPlayer\AudioPlayer\obj\Release\AudioPlayer.exe
+D:\Програмы\AudioPlayer\AudioPlayer\obj\Release\AudioPlayer.pdb
